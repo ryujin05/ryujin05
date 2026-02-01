@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Hi there 👋, I'm Hoang Van Binh</h1>
+  <h1>Hi there 👋, I'm PHAM THE DAT</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&pause=1000&color=23B740&center=true&width=435&lines=Fullstack+Developer+(MERN);Targeting+Working+in+Japan+🇯🇵;私はホアン・ヴァン・ビンです。;Always+Curious,+Always+Learning!" alt="Typing SVG" />
