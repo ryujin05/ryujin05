@@ -1,149 +1,29 @@
-<div align="center">
-  <img src="images/Projects.gif" width="100%" alt="Header GIF" />
-</div>
+<h1 align="center">Hi 👋, I'm PHAM THE DAT</h1>
+<h3 align="center">Full Stack Developer & Machine Learning Enthusiast from Vietnam | Aiming for Japan 🇯🇵</h3>
 
-<div align="center">
-  <h1>Hi there 👋, I'm PHAM THE DAT</h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&pause=1000&color=23B740&center=true&width=435&lines=Fullstack+Developer+(MERN);Targeting+Working+in+Japan+🇯🇵;私はホアン・ヴァン・ビンです。;Always+Curious,+Always+Learning!" alt="Typing SVG" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  </a>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryujin05&label=Profile%20views&color=0e75b6&style=flat" alt="ryujin05" /> </p>
 
-## 💫 About me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryujin05" alt="ryujin05" /></a> </p>
 
-- 🔭 I’m currently working on **Full-stack Web Projects (Real Estate, Management Systems)**
-- 🌱 I’m currently learning **Next.js, TypeScript & Japanese (N3/N2)**
-- 👯 I’m looking to collaborate on **Open Source & Web Applications**
-- 🎯 Goal: **Become a Professional Fullstack Engineer in Japan**
-- 📫 How to reach me: **hoangvanbinh141205@gmail.com**
+- 🔭 I’m currently working on **Full-stack Web Projects and Smart Energy Consumption Predictor Projects**
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=🇻🇳+Hanoi+Time:+GMT+%2B7;🇯🇵+Tokyo+Time:+GMT+%2B9;🌏+Dual+Timezone+Setup" alt="Digital Clock Animation" />
-  </a>
-</div>
+- 🌱 I’m currently learning **Deep Learning fundamentals, Computer Vision and Japanese(N3/N2)**
 
-## 🌐 Connect with me
+- 👯 I’m looking to collaborate on **Open Source AI projects and Full-stack Web Applications**
 
-<div align="center">
+- 🎯 Goal: **Become an AI Fullstack Engineer**
 
-<a href="https://www.facebook.com/hvb1418" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="facebook" width="40" height="40"/>
-</a>
-<a href="https://www.instagram.com/_hvb.prt_" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/[USERNAME_CUA_BAN]" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
-</a>
-<a href="mailto:hoangvanbinh141205@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
-</a>
-<a href="https://discord.com/users/945715523226849310" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" height="40" width="40" />
-</a>
+- 📫 How to reach me **dphamthe67@gmail.com**
 
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/ryujin180805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ryujin180805" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/dphamthe67/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dphamthe67/" height="30" width="40" /></a>
+</p>
 
-## 🛠️ Tech Stack & Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<div align="left">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryujin05&show_icons=true&locale=en&layout=compact" alt="ryujin05" /></p>
 
-### 💻 Programming Languages
-
-<a href="https://devdocs.io/c/" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/></a>
-<a href="https://devdocs.io/cpp/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="40" height="40"/></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>
-
-### 🎨 Frontend Development
-
-<a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/></a>
-<a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" alt="vue" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></a>
-
-### ⚙️ Backend & Database
-
-<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
-<a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" alt="supabase" width="40" height="40"/></a>
-<a href="https://sequelize.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sequelize" alt="sequelize" width="40" height="40"/></a>
-
-### ☁️ Cloud, DevOps & Tools
-
-<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/></a>
-<a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/></a>
-
-</div>
-
----
-
-## 📊 Github Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-vixb.vercel.app/api?username=hvb1412&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-vixb.vercel.app/api/top-langs/?username=hvb1412&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</div>
-
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ecru-seven.vercel.app?user=hvb1412&theme=tokyonight&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
-</div>
-
-## 📈 Github Activity Graph
-
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hvb1412&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-  </a>
-</div>
-
-## 🧊 Contribution
-
-<div align="center">
-  <a href="https://github.com/Platane/snk">
-    <img src="https://github.com/hvb1412/hvb1412/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D View" />
-</div>
-
-## ⚡ Fuel for Thought
-
-<div align="center">
-  <a href="https://github.com/PiyushSuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight&animation=true&type=horizontal" alt="Animated Quote" />
-  </a>
-</div>
-
-## 👁️ Profile Views
-
-<div align="center">
-  <h3>Visitors Count</h3>
-  <img src="https://count.getloli.com/get/@hvb1412?theme=booru-jaypee" alt="Moe Counter" />
-</div>
-
-<div align="center">
-  <img src="images/CodingPin.gif" width="100%" alt="Header GIF" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryujin05&show_icons=true&locale=en" alt="ryujin05" /></p>
