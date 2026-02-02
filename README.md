@@ -6,7 +6,7 @@
   <h1>Hi there 👋, I'm Pham The Dat </h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&pause=1000&color=36BCF7&center=true&width=500&lines=Fullstack+Developer;Machine+Learning+Enthusiast;HUST+IT+Student+(HEDSPI)+🇻🇳;Targeting+Working+in+Japan+🇯🇵" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&pause=1000&color=36BCF7&center=true&width=500&lines=Fullstack+Developer;Machine+Learning+Enthusiast;Next.js+%26+TypeScript;HUST+IT+Student+(HEDSPI)+🇻🇳;Targeting+Working+in+Japan+🇯🇵" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,9 +24,10 @@
 
 ## 💫 About Me
 
-- Education: 3rd-year IT Student at Hanoi University of Science and Technology (HUST).
+- Education: 3rd-year IT Student at Hanoi University of Science and Technology (HUST), HEDSPI program.
+- MSSV: 20235676.
 - Current Projects: Working on BlueMoon System (Apartment Management) and Smart Energy Consumption Predictor.
-- Currently Learning: Deep Learning fundamentals, Computer Vision, Next.js, TypeScript and Japanese .
+- Currently Learning: Deep Learning fundamentals, Computer Vision, Next.js, TypeScript and Japanese (Targeting JLPT N1).
 - Collaboration: Looking to contribute to Open Source AI projects and Full-stack Web Applications.
 - Long-term Goal: Become an AI Fullstack Engineer working in Japan.
 - Contact: dphamthe67@gmail.com
