@@ -6,22 +6,28 @@
   <h1>Hi there 👋, I'm Pham The Dat </h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&pause=1000&color=36BCF7&center=true&width=500&lines=Fullstack+Developer;Machine+Learning+Enthusiast;HUST+IT+Student+🇻🇳;Targeting+Working+in+Japan+🇯🇵" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&pause=1000&color=36BCF7&center=true&width=500&lines=Fullstack+Developer;Machine+Learning+Enthusiast;HUST+IT+Student+(HEDSPI)+🇻🇳;Targeting+Working+in+Japan+🇯🇵" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ryujin05&label=Profile%20views&color=0e75b6&style=flat-square" alt="ryujin05" /> 
+  <img src="https://komarev.com/ghpvc/?username=ryujin05&label=Profile%20views&color=0e75b6&style=flat-square" alt="Visitors Count Badge" /> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ryujin05&theme=tokyonight" alt="GitHub Trophy" />
+  </a>
 </p>
 
 ---
 
 ## 💫 About Me
 
-- 🎓 **Education:** 3rd-year IT Student at **Hanoi University of Science and Technology (HUST)**.
-- 🔭 **Current Projects:** Working on **Full-stack Web** and **Smart Energy Consumption Predictor** (Deep Learning).
-- 🌱 **Currently Learning:** Deep Learning fundamentals, Computer Vision, and **Japanese (Targeting N2/N1)**.
-- 👯 **Collaboration:** Looking to contribute to **Open Source AI projects** and Web Apps.
+- 🎓 **Education:** 3rd-year IT Student at **Hanoi University of Science and Technology (HUST)**, HEDSPI program.
+- 🔭 **Current Projects:** Working on **BlueMoon System** (Apartment Management) and **Smart Energy Consumption Predictor**.
+- 🌱 **Currently Learning:** Deep Learning fundamentals, Computer Vision, and **Japanese (Targeting JLPT N1)**.
+- 👯 **Collaboration:** Looking to contribute to **Open Source AI projects** and Full-stack Web Applications.
 - 🎯 **Long-term Goal:** Become an **AI Fullstack Engineer** working in Japan.
 - 📫 **Contact:** [dphamthe67@gmail.com](mailto:dphamthe67@gmail.com)
 
@@ -46,11 +52,11 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills (Top Skills)
 
 ### 💻 Programming Languages & Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,php,postgres" />
 </p>
 
 ### 🤖 Machine Learning & Data Science
@@ -62,7 +68,7 @@
 
 ### 🌐 Web Development (Fullstack)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vue,nodejs,express,mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vue,nodejs,express,mongodb,mysql" />
 </p>
 
 ### ☁️ DevOps & Tools
@@ -72,7 +78,7 @@
 
 ---
 
-## 📊 Github Stats
+## 📊 Github Stats Card & Top Languages
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryujin05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
