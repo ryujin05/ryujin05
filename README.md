@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryujin05&theme=tokyonight" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ryujin05&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophy" />
   </a>
 </p>
 
@@ -24,12 +24,12 @@
 
 ## 💫 About Me
 
-- 🎓 **Education:** 3rd-year IT Student at **Hanoi University of Science and Technology (HUST)**, HEDSPI program.
-- 🔭 **Current Projects:** Working on **BlueMoon System** (Apartment Management) and **Smart Energy Consumption Predictor**.
-- 🌱 **Currently Learning:** Deep Learning fundamentals, Computer Vision, and **Japanese (Targeting JLPT N1)**.
-- 👯 **Collaboration:** Looking to contribute to **Open Source AI projects** and Full-stack Web Applications.
-- 🎯 **Long-term Goal:** Become an **AI Fullstack Engineer** working in Japan.
-- 📫 **Contact:** [dphamthe67@gmail.com](mailto:dphamthe67@gmail.com)
+- Education: 3rd-year IT Student at Hanoi University of Science and Technology (HUST), HEDSPI program.
+- Current Projects: Working on BlueMoon System (Apartment Management) and Smart Energy Consumption Predictor.
+- Currently Learning: Deep Learning fundamentals, Computer Vision, and Japanese (Targeting JLPT N1).
+- Collaboration: Looking to contribute to Open Source AI projects and Full-stack Web Applications.
+- Long-term Goal: Become an AI Fullstack Engineer working in Japan.
+- Contact: dphamthe67@gmail.com
 
 ---
 
@@ -52,33 +52,33 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills (Top Skills)
+## 🛠️ Tech Stack & Skills
 
-### 💻 Programming Languages & Core
+### Programming Languages & Core
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,php,postgres" />
 </p>
 
-### 🤖 Machine Learning & Data Science
+### Machine Learning & Data Science
 <p align="left">
   <a href="https://www.tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
   <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
   <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /></a>
 </p>
 
-### 🌐 Web Development (Fullstack)
+### Web Development (Fullstack)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vue,nodejs,express,mongodb,mysql" />
 </p>
 
-### ☁️ DevOps & Tools
+### DevOps & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,vercel" />
 </p>
 
 ---
 
-## 📊 Github Stats Card & Top Languages
+## 📊 Github Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryujin05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
