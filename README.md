@@ -72,7 +72,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryujin05&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophy" />
+    <img src="https://github-trophies.vercel.app/?username=ryujin05&theme=onedark&no-frame=true&margin-w=15&column=7" alt="GitHub Trophy" />
   </a>
 </p>
 
@@ -80,10 +80,10 @@
 
 <div align="center">
   <a href="https://github.com/ryujin05">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryujin05&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Stats Card" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryujin05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats Card" />
   </a>
   <a href="https://github.com/ryujin05">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryujin05&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryujin05&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
   </a>
 </div>
 
