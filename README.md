@@ -57,9 +57,8 @@
 
 ### Machine Learning & Data Science
 <p align="left">
-  <a href="https://www.tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
   <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
-  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
 </p>
 
 ### Web Development (Fullstack)
@@ -73,15 +72,19 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryujin05&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ryujin05&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophy" />
   </a>
 </p>
 
 ## 📊 Github Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryujin05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats Card" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryujin05&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <a href="https://github.com/ryujin05">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryujin05&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Stats Card" />
+  </a>
+  <a href="https://github.com/ryujin05">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryujin05&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
